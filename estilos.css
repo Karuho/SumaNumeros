@@ -1,0 +1,54 @@
+body {
+  color: #000;
+  font-family: roboto, tahoma, arial;
+  font-size: 13px;
+  background: url("https://reaction.life/wp-content/uploads/2018/04/AdobeStock_65311774-1024x762.jpeg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.space {
+  padding: 12px;
+}
+
+.space2 {
+  padding: 8px;
+}
+
+.interbd {
+  border-top: #ffffff 5px solid;
+  border-left: #ffffff 5px solid;
+  border-right: #ffffff 5px solid;
+  border-bottom: #ffffff 5px solid;
+}
+
+.border {
+  color: #ffffff;
+  border: 1px solid;
+  border-radius: 20px;
+  padding: 7px;
+  line-height: 5px;
+  background-color: #e54f22;
+  width: 80px;
+}
+
+.table {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #f2f2f2;
+  border-width: 1px;
+  background-color: #ffffff;
+}
+
+.extborder {
+  padding: 40px;
+  line-height: 10px;
+}
+
+.box {
+  padding: 2px;
+  line-height: 1px;
+  width: 90px;
+  border-radius: 3px;
+}
